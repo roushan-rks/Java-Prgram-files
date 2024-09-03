@@ -1,7 +1,7 @@
- public class rks
-{
-   public static void main (String args[])
+ class rks//
  {
-    System.out.println("Hello World"); //ritik
+   public static void main (String a[])//
+   {
+      System.out.println("my first program ");//
+   }
  }
-} 
